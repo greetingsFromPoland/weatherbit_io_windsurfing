@@ -1,0 +1,1 @@
+GET http://localhost:8080/v1/weather/bestToday?date=2022-06-20

@@ -1,0 +1,6 @@
+weatherBit:
+  apiKey: b860f5a5eb0b40f3b96e36b066895373
+  url: https://api.weatherbit.io/v2.0
+logging:
+  level:
+    pl.jarekwasowski: DEBUG

@@ -1,0 +1,5 @@
+rootProject.name = 'weatherbit_windsurfing'
+rootProject.name = 'gradle-multi-module-project'
+
+include "weatherbit-client"
+include "app"
